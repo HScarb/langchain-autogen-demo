@@ -1,0 +1,7 @@
+pyautogen~=0.1.0
+docker
+langchain
+openai
+tiktoken
+chromadb
+pypdf
